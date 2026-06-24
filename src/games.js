@@ -4,17 +4,7 @@ const games = [
         description: "Play tennis against an AI in a fast top-down match.",
         link: "games/game1/index.html"
     },
-    {
-        name: "Game 2",
-        description: "Another cool game (add yours here)",
-        link: "games/game2/index.html"
-    },
-    {
-        name: "Test Game",
-        description: "Example external link",
-        link: "https://example.com"
-    }
-];
+    
 
 const grid = document.getElementById("gamesGrid");
 
